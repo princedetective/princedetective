@@ -1,15 +1,13 @@
 <!--
-😱
+i suck at coding fr, nothing to see here 🐰
 -->
 
 
+<div> <p align="center">
+<img src="https://file.garden/aaJe8HRWsEcDcQNF/akechi-themed/2.0/whatever" height="500">
+ </div>
 
-<div align="center">
-<img width="850" src="https://file.garden/aaJe8HRWsEcDcQNF/akechi-themed/i.png"> <br>
-<i>strawpage currently being remade</i>
-
-</div>
-
-</br>
-  
-<p align="center"> $\color{#E70000}{\textsf{« You are the trash of society. I will kill you! Destroy you! Crush you...! Teammates are nothing but trash! »}}$ </p>
+<div> <p align="center">
+ <a href="https://rayykechi.straw.page/"><img src="https://file.garden/aaJe8HRWsEcDcQNF/akechi-themed/2.0/strawpage" height="300"></a>‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ <a href="https://detectiveprince.atabook.org/"><img src="https://file.garden/aaJe8HRWsEcDcQNF/akechi-themed/2.0/atabook" height="300"></a> </p>
+  </div>
+ <p align="center"> <img src="https://file.garden/aaJe8HRWsEcDcQNF/akechi-themed/2.0/d" height="50"> </p>
